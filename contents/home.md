@@ -5,7 +5,7 @@
 He is currently enrolled in the Graduate Academic Preparation Program at UCSB as an international student while pursuing a Bachelor's Degree in Opto-electronic Information Science and Engineering at the School of Optical and Electronic Information, Huazhong University of Science and Technology, China.
 
 #### Email
-bowenchen[at]ucsb.edu
+bowenchen@ucsb.edu
 
 #### Education
 Graduate Academic Preparation Program, Electrical and Computer Engineering, University of California,Santa Barbara, 2024—2025 (expected).\
