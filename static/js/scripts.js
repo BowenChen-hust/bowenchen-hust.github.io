@@ -2,7 +2,7 @@
 
 const content_dir = 'contents/'
 const config_file = 'config.yml'
-const section_names = ['home', 'publications', 'proj1']
+const section_names = ['home', 'publications', 'awards']
 
 
 window.addEventListener('DOMContentLoaded', event => {
@@ -61,16 +61,5 @@ window.addEventListener('DOMContentLoaded', event => {
             })
             .catch(error => console.log(error));
     })
-    
-    fetch('proj1.md')
-    .then(response => response.text())  // 获取文件的文本内容
-    .then(text => {
-        // 使用 marked.js 将 Markdown 转换为 HTML
-        document.getElementById('proj1-md').innerHTML = marked(text);
-    })
-    .catch(error => {
-        console.error('Error loading markdown file:', error);
-        document.getElementById('proj1-md').innerHTML = "<p>Failed to load project content.</p>";
-    });
 
 }); 
