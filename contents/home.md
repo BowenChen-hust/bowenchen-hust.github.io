@@ -1,8 +1,7 @@
+I'm currently enrolled in the Graduate Academic Preparation Program at UCSB as an international student, working with Prof.Spenser LaVere Smith. At the same time , I'm a member of Bachelor-Master-PhD  Integrated Innovation Honors Class for Optoeletronics, pursuing a Bachelor's Degree at the School of Optical and Electronic Information, Huazhong University of Science and Technology, China.
 
 #### Github
 [![bowenchen](https://img.shields.io/badge/BowenChen-github-blue?logo=github)](https://github.com/BowenChen-hust)
-
-I'm currently enrolled in the Graduate Academic Preparation Program at UCSB as an international student, working with Prof.Spenser LaVere Smith. At the same time , I'm a member of Bachelor-Master-PhD  Integrated Innovation Honors Class for Optoeletronics, pursuing a Bachelor's Degree at the School of Optical and Electronic Information, Huazhong University of Science and Technology, China.
 
 #### Location
 Santa Barbara,California, USA
