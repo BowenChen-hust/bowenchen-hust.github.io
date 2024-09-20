@@ -1,16 +1,16 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![bowenchen](https://img.shields.io/badge/BowenChen-hust-github-blue?logo=github)](https://github.com/BowenChen-hust)
 
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
+He is currently enrolled in the Graduate Academic Preparation Program at UCSB as an international student while pursuing a Bachelor's Degree in Opto-electronic Information Science and Engineering at the School of Optical and Electronic Information, Huazhong University of Science and Technology, China.
 
 #### Email
-sli[at]cumt.edu.cn
+bowenchen[at]ucsb.edu
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+Graduate Academic Preparation Program, Electrical and Computer Engineering, University of California,Santa Barbara, 2024—2025 (expected).\
+B.E., Opto-electronic Information Science and Engineering, Huazhong University of Science and Technology, 2021—2025 (expected).
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+Imaging, Deep Learning
 
