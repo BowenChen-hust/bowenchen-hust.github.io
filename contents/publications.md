@@ -1,4 +1,5 @@
 - #### Fourier light-field microscopy based on deep learning with enhanced depth of focus and resolution
+<b>Abstract</b>: The two-stage microscopy technique based on Fourier Light Field Microscopy and VCD deep learning reconstruction strategies(F-VCD) has achieved remarkable success in fast 3D super-resolution reconstruction. However, it performs poorly in terms of refocusing depth. In practice, F-VCD can only achieve effective reconstruction within a 3µm thickness, which is less than the typical thickness of a cell. To address this, we have designed a new optical setup and a Vision Transformer-based network that combines two imaging modalities: one with 3 views MLA(high lateral resolution but low refocusing depth), and the other with 7 views MLA(high refocusing depth but low lateral resolution). This combination enables outputs with both high lateral resolution and high refocusing depth, expanding its potential applications. (This work is ongoing and is expected to be published by the end of 2024.)
 
 - #### Generative Phase Imaging based on deep learning
 
