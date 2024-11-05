@@ -14,4 +14,4 @@ Graduate Academic Preparation Program, Electrical and Computer Engineering, Univ
 B.E., Opto-electronic Information Science and Engineering, Huazhong University of Science and Technology, 2021—2025 (expected).
 
 #### Research Interests
-My research interests include <strong>Imaging, Optical computation</strong>,and <strong>Deep Learning</strong>. During my studies at HUST, I gained extensive knowledge in optics. However, I believe deep learning and neural networks are powerful tools with great future potential. Therefore, I took the initiative to teach myself deep learning, with the aim of integrating it into optical tasks.
+My research interests include <strong>Imaging, Biomedical Applications of Imaging Techniques</strong>,and <strong>Deep Learning</strong>. During my studies at HUST, I gained extensive knowledge in optics. However, I believe deep learning and neural networks are powerful tools with great future potential. Therefore, I took the initiative to learn deep learning, with the aim of integrating it into optical tasks.
